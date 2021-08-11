@@ -6,6 +6,6 @@ package pratica04;
 public class Library {
     public boolean someLibraryMethod() {
     	
-        return false;
+        return true;
     }
 }
